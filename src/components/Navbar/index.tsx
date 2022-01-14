@@ -23,7 +23,7 @@ const Navbar = () => {
         <NavMenu>
           <NavLink to="/contact-us">Fale conosco</NavLink>
           <NavLink to="/about">Quem somos?</NavLink>
-          <NavLink to="/karsten">Conheça a Karsten</NavLink>
+          <NavLink to="/carousel">Carousel</NavLink>
           <NavLink to="/register">Entre ou cadastre-se</NavLink>
           {/* 2nd Nav */}
           {/* <NavBtnLink to="/signin">Sign In</NavBtnLink> */}
